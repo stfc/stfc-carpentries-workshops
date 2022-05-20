@@ -9,6 +9,8 @@ Recruit organisers and instructors.
 
 Set up channels for communication among organisers and instructors.
 
+Request funding, if internal.
+
 ## April 
 
 Initial planning meeting.
@@ -28,9 +30,34 @@ Discuss:
 * choose dates if possible (working around any induction dates chosen by early careers coordinators)
 
 Actions:
-* register workshop with the Carpentries
-* set up workshop website
-* set up registration form
+* set up workshop website using the [Carpentries workshop template](https://github.com/carpentries/workshop-template) (use past STFC workshop sites as reference)
+* [register workshop with SCD Admin team](https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyOAXRM1mGQFMqGGVhi0XNxFUMzhZVFRVNE43SlZQNDczMEtHMkpTMUNLOC4u) (internal link)
+* set up registration form, working with SCD Admin team
+* request funding from the SSI, if applicable
+* book the R34 Training Room and give Facilities IT the heads up
+* circulate starter pack to any early starters
+
+## June 
+
+Discuss:
+* check website & registration form details
+
+Actions:
+* [Register workshop with the Carpentries](https://amy.carpentries.org/forms/self-organised/) (requires workshop website to be ready)
+* Circulate registration form
+
+## July
+
+## August
+
+Discuss:
+*	estimate attendance from initial registrations
+
+Actions:
+*	Check updates to Git Bash, Zoom, VS Code etc. & decide on versions to use
+*	Recruit helpers
+
+
 
 ## Useful links
 
