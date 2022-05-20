@@ -1,3 +1,11 @@
-# stfc-carpentries-workshops
+# Software Carpentry at STFC
 
-Notes on the process of planning and running Carpentries workshops at STFC
+## For Learners
+
+See the [starter pack](learners/starter-pack.md)
+
+The next workshop will be on `dates`.
+
+## For Organisers
+
+See the [organisation](organisers/index.md) section.
