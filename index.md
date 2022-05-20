@@ -7,9 +7,7 @@ title: Software Carpentry at STFC
 
 ## For Learners
 
-See the [starter pack](learners/starter-pack.md)
-
-The next workshop will be on `dates`.
+See the [starter pack](learners/starter-pack.md) or take a look at our [upcoming workshops](learners/upcoming-workshops.md).
 
 ## For Organisers
 
