@@ -7,3 +7,6 @@ You may find the [planning timeline](planning-timeline.md) helpful for organisin
 Notes on teaching the Carpentries courses at STFC:
 * [Software Carpentry Basics](software-carpentry.md) (Unix, Git, Python)
 * [Intermediate Development with Python](intermediate-development-python.md)
+
+## Updating this website
+This website is served using GitHub Pages from the [stfc-carpentries-workshops](https://github.com/stfc/stfc-carpentries-workshops) repository. Changes to the files will be automatically deployed once pushed to the `main` branch.
