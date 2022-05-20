@@ -1,3 +1,9 @@
+---
+nav_order: 2
+title: Intermediate Software Development in Python
+parent: Organising Carpentries workshops at STFC
+---
+
 # Intermediate Software Development in Python
 
 Notes on running the Intermediate Software Development in Python course.

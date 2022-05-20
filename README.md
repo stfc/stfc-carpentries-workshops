@@ -1,3 +1,8 @@
+---
+nav_order: 0
+title: Software Carpentry at STFC
+---
+
 # Software Carpentry at STFC
 
 ## For Learners

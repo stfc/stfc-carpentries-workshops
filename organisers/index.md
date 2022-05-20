@@ -1,3 +1,9 @@
+---
+nav_order: 2
+title: Organising Carpentries workshops at STFC
+has_children: true
+---
+
 # Organising Carpentries workshops at STFC
 
 ## Planning Timeline

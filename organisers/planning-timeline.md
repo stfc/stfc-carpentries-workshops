@@ -1,3 +1,10 @@
+---
+nav_order: 0
+title: Planning Timeline
+parent: Organising Carpentries workshops at STFC
+---
+
+
 # Planning Timeline
 
 This timeline assumes a workshop will be run at the end of September/early October.
@@ -11,7 +18,7 @@ Set up channels for communication among organisers and instructors.
 
 Request funding, if internal.
 
-## April 
+## April
 
 Initial planning meeting.
 
@@ -37,7 +44,7 @@ Actions:
 * book the R34 Training Room and give Facilities IT the heads up
 * circulate starter pack to any early starters
 
-## June 
+## June
 
 Discuss:
 * check website & registration form details
@@ -64,13 +71,13 @@ Actions:
 Carpentries lessons:
 *	Unix shell: https://swcarpentry.github.io/shell-novice/
 *	Git: https://swcarpentry.github.io/git-novice/
-*	Python (original): https://swcarpentry.github.io/python-novice-inflammation/ 
-*	Python (newer with slightly different focus): http://swcarpentry.github.io/python-novice-gapminder/ 
-* Databases/SQL: http://swcarpentry.github.io/sql-novice-survey/ 
+*	Python (original): https://swcarpentry.github.io/python-novice-inflammation/
+*	Python (newer with slightly different focus): http://swcarpentry.github.io/python-novice-gapminder/
+* Databases/SQL: http://swcarpentry.github.io/sql-novice-survey/
 *	Intermediate development: https://carpentries-incubator.github.io/python-intermediate-development/ (still in incubation as of April 2022)
 
 Carpentries instructor training:
-*	Instructor training course: https://carpentries.github.io/instructor-training/ 
+*	Instructor training course: https://carpentries.github.io/instructor-training/
 *	Become an instructor: https://carpentries.org/become-instructor/ (Open Instructor Training Program option)
 
 Carpentries handbook pages:
