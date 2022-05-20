@@ -1,7 +1,7 @@
 ---
 nav_order: 2
 title: Intermediate Software Development in Python
-parent: Organising Carpentries workshops at STFC
+parent: For Organisers
 ---
 
 # Intermediate Software Development in Python

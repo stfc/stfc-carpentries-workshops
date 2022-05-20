@@ -1,7 +1,7 @@
 ---
 nav_order: 1
 title: Software Carpentry
-parent: Organising Carpentries workshops at STFC
+parent: For Organisers
 ---
 
 # Software Carpentry

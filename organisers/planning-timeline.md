@@ -1,7 +1,7 @@
 ---
 nav_order: 0
 title: Planning Timeline
-parent: Organising Carpentries workshops at STFC
+parent: For Organisers
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 nav_order: 2
-title: Organising Carpentries workshops at STFC
+title: For Organisers
 has_children: true
 ---
 
-# Organising Carpentries workshops at STFC
+# For Organisers
 
 ## Planning Timeline
 You may find the [planning timeline](planning-timeline.md) helpful for organising a workshop.

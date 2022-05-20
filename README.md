@@ -1,16 +1,5 @@
----
-nav_order: 0
-title: Software Carpentry at STFC
----
-
 # Software Carpentry at STFC
 
-## For Learners
+## [For Learners](https://stfc.github.io/stfc-carpentries-workshops/learners/)
 
-See the [starter pack](learners/starter-pack.md)
-
-The next workshop will be on `dates`.
-
-## For Organisers
-
-See the [organisation](organisers/index.md) section.
+## [For Organisers](https://stfc.github.io/stfc-carpentries-workshops/organisers/)
