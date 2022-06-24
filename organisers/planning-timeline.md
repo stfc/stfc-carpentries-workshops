@@ -29,6 +29,7 @@ Discuss:
 Actions:
 * gather start dates and induction dates for graduates/apprentices/industrial placement students from the early careers coordinators
 * create a 'starter pack' for those who start well before September and need to learn the skills early
+* first-time instructors apply for [instructor training](https://amy.carpentries.org/forms/request_training/)
 
 ## May
 
@@ -42,6 +43,7 @@ Actions:
 * set up registration form, working with SCD Admin team
 * request funding from the SSI, if applicable
 * book the R34 Training Room and give Facilities IT the heads up
+* book another large conference room for other in-person attendees
 * circulate starter pack to any early starters
 
 ## June
@@ -54,6 +56,11 @@ Actions:
 * Circulate registration form
 
 ## July
+
+Discuss:
+
+Actions:
+* circulate starter pack to July starters
 
 ## August
 
