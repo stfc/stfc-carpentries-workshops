@@ -15,7 +15,9 @@ These hands-on workshops will cover basic concepts and tools including version c
 Some new starters will start well in advance of these courses, and will soon require the basic skills covered within them; therefore, links are provided below for the course material, produced by [The Carpentries](https://carpentries.org/), which can be self-taught if desired. We also provide some additional links for further reading, covering a few techniques and tools that are outside the scope of these courses.
 
 ## Workshop information
-The dates for the Software Carpentry workshops are below, with links to the course material, which will be delivered in a hybrid format both online via Zoom and in-person at RAL. On each date listed, the workshop will run 9am-1pm.
+The dates for the Software Carpentry workshops are below, with links to the course material, which will be delivered in a hybrid format both online via Zoom and in-person at RAL. We have a page to help you identify [which courses are right for you](appropriate-courses.md). 
+
+On each date listed, the workshop will run 9am-1pm.
 
 * 4-5 Oct: [The Unix Shell](https://swcarpentry.github.io/shell-novice/) & [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 * 11-12 Oct: [Programming in Python](https://swcarpentry.github.io/python-novice-inflammation/)
@@ -26,9 +28,13 @@ For more information, see the [workshop website](https://stfc.github.io/2022-10-
 ## Help for Self-Learners
 
 If you're working through the courses by yourself and run into problems, you can seek help in the `#support` channel of the [Software Carpentry at STFC](https://join.slack.com/t/softwarecarpentrystfc/signup) Slack workspace. Alternatively, you can email any of the instructors listed on the workshop website.
+
+For the intermediate course, you may prefer to learn Visual Studio Code (aka VS Code) rather than Pycharm - VS Code is the IDE of choice for many STFC staff, and it's what we plan to teach at the workshops. When you hit a part of the course about PyCharm, you can reference this [supplementary material for VS Code](https://ukaea-rse-training.github.io/python-intermediate-development/vscode/index.html) instead. Try to make sure you can get the same functionality in VS Code that is described for PyCharm.
+
 ## Further reading
 Some links to tools and techniques that are beyond the scope of the Carpentries courses.
 
 * [Learn how to write good commit messages](https://cbea.ms/git-commit/)
 * [explainshell: Understand the function of a given command-line](https://explainshell.com/)
 * Software Carpentry course: [Databases and SQL](http://swcarpentry.github.io/sql-novice-survey/)
+* [VSCodium](https://vscodium.com): an alternative version of VS Code which does not include Microsoft's telemetry/tracking features. Note that adding certain extensions can be more challenging than in regular VS Code.
