@@ -15,7 +15,7 @@ These hands-on workshops will cover basic concepts and tools including version c
 Some new starters will start well in advance of these courses, and will soon require the basic skills covered within them; therefore, links are provided below for the course material, produced by [The Carpentries](https://carpentries.org/), which can be self-taught if desired. We also provide some additional links for further reading, covering a few techniques and tools that are outside the scope of these courses.
 
 ## Workshop information
-The dates for the Software Carpentry workshops are below, with links to the course material, which will be delivered in a hybrid format both online via Zoom and in-person at RAL. We have a page to help you identify [which course is right for you](appropriate-courses.md). 
+The dates for the Software Carpentry workshops are below, with links to the course material, which will be delivered in a hybrid format both online via Zoom and in-person at RAL. We have a page to help you identify [which courses are right for you](appropriate-courses.md). 
 
 On each date listed, the workshop will run 9am-1pm.
 
