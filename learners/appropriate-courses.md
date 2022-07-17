@@ -35,14 +35,16 @@ Python is a programming language that is ubiquitous in modern computing, and the
 - machine learning
 - automation of routine tasks
 
+This course is aimed at novices in both scientific programming and Python. If you're confident programming in a language other than Python, you may prefer to self-study at your own pace, as many of the concepts will already be familiar to you.
+
 ### Intermediate Research Software Development in Python
 
 This course teaches important skills for successful research software development, using Python. It covers
-- more intermediate software engineering techniques and tools
+- more intermediate software engineering techniques and tools, such as testing and integrated development environments
 - how to collaborate with others to develop software
 - how to prepare software for others to use
     
-The material for this course is more complex than for those listed above; therefore, you should already be comfortable with writing scripts in Python and applying basic shell and Git concepts.
+The material for this course is more complex than for those listed above; therefore, you should be comfortable with writing scripts in Python and applying basic shell and Git concepts before starting. If your first experience of Unix, Git, or Python is through the earlier courses, you should practice applying the tools to your own work in the time between those courses and this one.
 
 ## Registration
 
