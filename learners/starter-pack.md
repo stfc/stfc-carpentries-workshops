@@ -38,3 +38,7 @@ Some links to tools and techniques that are beyond the scope of the Carpentries 
 * [explainshell: Understand the function of a given command-line](https://explainshell.com/)
 * Software Carpentry course: [Databases and SQL](http://swcarpentry.github.io/sql-novice-survey/)
 * [VSCodium](https://vscodium.com): an alternative version of VS Code which does not include Microsoft's telemetry/tracking features. Note that adding certain extensions can be more challenging than in regular VS Code.
+
+## Other groups and events
+* [Code Jamboree @ STFC](https://codejamboreestfc.slack.com): join us for lunchtime coding challenges on the fourth Monday of every month!
+* [UK RSE Slack](https://ukrse.slack.com): a Slack workspace for Research Software Engineers (RSEs) across the UK, open to anyone. Run by the [Society of Research Software Engineering](https://society-rse.org).
