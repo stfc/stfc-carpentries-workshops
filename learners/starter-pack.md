@@ -31,13 +31,15 @@ If you're working through the courses by yourself and run into problems, you can
 
 For the intermediate course, you may prefer to learn Visual Studio Code (aka VS Code) rather than Pycharm - VS Code is the IDE of choice for many STFC staff, and it's what we plan to teach at the workshops. When you hit a part of the course about PyCharm, you can reference this [supplementary material for VS Code](https://ukaea-rse-training.github.io/python-intermediate-development/vscode/index.html) instead. Try to make sure you can get the same functionality in VS Code that is described for PyCharm.
 
-## Further reading
+## Additional resources
 Some links to tools and techniques that are beyond the scope of the Carpentries courses.
 
 * [Learn how to write good commit messages](https://cbea.ms/git-commit/)
-* [explainshell: Understand the function of a given command-line](https://explainshell.com/)
+* [Pro Git](https://git-scm.com/book/en/v2): a freely-available book on Git
+* [explainshell](https://explainshell.com/): understand the function of a given command-line
 * Software Carpentry course: [Databases and SQL](http://swcarpentry.github.io/sql-novice-survey/)
 * [VSCodium](https://vscodium.com): an alternative version of VS Code which does not include Microsoft's telemetry/tracking features. Note that adding certain extensions can be more challenging than in regular VS Code.
+* [SCD Early Careers Technical Resources and Courses](https://stfc365.sharepoint.com/sites/SCD-Early-Careers/SitePages/Technical-Resources-and-Courses.aspx): a page on the Scientific Computing Department's Early Careers SharePoint for collating technical resources. The majority of these resources could be of use in any STFC computing role.
 
 ## Other groups and events
 * [Code Jamboree @ STFC](https://codejamboreestfc.slack.com): join us for lunchtime coding challenges on the fourth Monday of every month!
